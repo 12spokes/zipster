@@ -2,13 +2,26 @@ PATH
   remote: .
   specs:
     zipster (0.0.1)
+      algorithms
 
 GEM
   remote: http://rubygems.org/
   specs:
+    algorithms (0.3.0)
+    diff-lcs (1.1.2)
+    rspec (2.1.0)
+      rspec-core (~> 2.1.0)
+      rspec-expectations (~> 2.1.0)
+      rspec-mocks (~> 2.1.0)
+    rspec-core (2.1.0)
+    rspec-expectations (2.1.0)
+      diff-lcs (~> 1.1.2)
+    rspec-mocks (2.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  algorithms
+  rspec
   zipster!
