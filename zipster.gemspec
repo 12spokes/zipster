@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "zipster"
   s.version     = Zipster::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Ethan Vizitei"]
+  s.email       = ["ethan.vizitei@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Map zip codes to states}
+  s.description = %q{Give zipster a zip code, it will tell you what state it belongs to}
 
   s.rubyforge_project = "zipster"
 
