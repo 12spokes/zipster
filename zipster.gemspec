@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Ethan Vizitei"]
   s.email       = ["ethan.vizitei@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "http://rubygems.org/gems/zipster"
   s.summary     = %q{Map zip codes to states}
   s.description = %q{Give zipster a zip code, it will tell you what state it belongs to}
 
