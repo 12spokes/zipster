@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    zipster (0.0.1)
+    zipster (0.1.0)
       algorithms
 
 GEM
